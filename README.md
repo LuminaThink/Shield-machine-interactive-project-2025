@@ -105,7 +105,6 @@
 - VCC → 5V
 - GND → GND
 - AO（模拟输出）→ AO（即GPIO1）
-![alt text](c7f7a6d938c98d593bfa3e11bdd398ec-1.jpg)
 **Wio Terminal连接XIAO ESP32S3：**
 - 5V → 5V
 - GND → GND
